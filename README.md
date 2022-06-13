@@ -13,6 +13,7 @@ To use the webpage: Please input information in our filter search area.  You wil
 
 ![This is an image](https://github.com/sadayas/UFOs/blob/main/static/images/filtertest.png)
 
+The data table provided will then update within the search parameters.
 
 ## Summary
 ## Drawbacks and Further Developments
