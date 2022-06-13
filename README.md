@@ -7,11 +7,11 @@ The client, Dana, wants the UFO webpage to be able to process information and an
 ## Results
 With the updated webpage, we are able to input information and filter through results.
 
-![This is an image](https://github.com/sadayas/UFOs/blob/main/static/images/filterresu.png) )
+![This is an image](https://github.com/sadayas/UFOs/blob/main/static/images/filterresu.png)
 
 To use the webpage: Please input information in our filter search area.  You will be able to search for the data, city, state, country, or shape.
 
-![This is an image](https://github.com/sadayas/UFOs/blob/main/static/images/filtertest.png) )
+![This is an image](https://github.com/sadayas/UFOs/blob/main/static/images/filtertest.png)
 
 
 ## Summary
